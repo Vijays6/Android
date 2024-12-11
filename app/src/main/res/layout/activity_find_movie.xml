@@ -19,7 +19,8 @@
         android:layout_height="wrap_content"
         android:text="@string/find_movie"
         android:layout_gravity="center"
-        android:layout_margin="16dp"/>
+        android:layout_margin="16dp"
+        android:onClick="findMovie"/>
     <TextView
         android:id="@+id/movieName"
         android:layout_width="wrap_content"
