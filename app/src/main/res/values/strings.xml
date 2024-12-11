@@ -1,4 +1,12 @@
 <resources>
-    <string name="app_name">FirstApplication</string>
-    <string name="HelloTxt">Hello Vijay!</string>
+    <string name="app_name">Movie Finder</string>
+    <string name="movie_name">Pushpa</string>
+    <string name="find_movie">Find Movie</string>
+    <string name="default_movie">No Heroes Selected</string>
+
+    <string-array name="movieList">
+        <item>Vijay</item>
+        <item>Ajith</item>
+        <item>Rajini</item>
+    </string-array>
 </resources>
